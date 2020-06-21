@@ -1,1 +1,1 @@
-# adafruitio_temp_humidity
+# adafruitio_temp_humidity sketch
